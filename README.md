@@ -6,5 +6,8 @@ This is a classification problem. I have implemented following parts in this pro
 1. Data Visualization and Correction
 2. Data analysis with graphs using Seaborn
 3. Predict the accuracy with Sigmoid activation function
-4. Find the overall accuracy with different Sklearn Machine learning modules like 'Logistic Regression' , 'Linear Discriminant Analysis (LDA)' , 'K Neighbour Classifier' ,          'Decision Tree Classifier' , 'Random Forest Classifier' , 'Naive Bayes' and 'Support Vector Machine'.
-See the Jupyter Notebook for more details about code and pipeline explanation.
+4. Find the overall accuracy with the Sklearn Machine learning modules like 'Logistic Regression'.
+5. we create a web app using Flask which is a python micro framework.
+
+Live Application :
+
