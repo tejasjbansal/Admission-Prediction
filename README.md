@@ -10,4 +10,4 @@ This is a classification problem. I have implemented following parts in this pro
 5. we create a web app using Flask which is a python micro framework.
 
 Live Application :
-
+https://admission-predictions.herokuapp.com/
